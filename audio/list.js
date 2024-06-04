@@ -59,6 +59,121 @@ var list = [{
     "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Ang 5.0/重来.mp3",
     "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Ang 5.0/cover.png"
 }, {
+    "name": "Never Forget You",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/Never Forget You.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "OK蹦",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/OK蹦.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "为爱而活",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/为爱而活.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "刺情",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/刺情.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "我的眼泪",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/我的眼泪.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "活在此刻",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/活在此刻.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "爱旅行的人",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/爱旅行的人.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "爱没有错",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/爱没有错.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "爱磁场",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/爱磁场.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "讨好",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/讨好.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "阳光空气",
+    "artist": "专辑-Angela Zhang",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/阳光空气.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Angela Zhang/cover.png"
+}, {
+    "name": "Journey ",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/Journey .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "Over The Rainbow",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/Over The Rainbow.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "听见月光",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/听见月光.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "呐喊",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/呐喊.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "天边",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/天边.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "寓言",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/寓言.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "我的最爱",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/我的最爱.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "明明爱你",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/明明爱你.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "真爱冒险",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/真爱冒险.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "遗失的美好 ",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/遗失的美好 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "都只因为你",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/都只因为你.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
+    "name": "雨后",
+    "artist": "专辑-Over The Rainbow",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/雨后.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/Over The Rainbow/cover.png"
+}, {
     "name": "Honesty",
     "artist": "专辑-有形的翅膀",
     "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/有形的翅膀/Honesty.mp3",
@@ -228,4 +343,109 @@ var list = [{
     "artist": "专辑-欧若拉",
     "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/欧若拉/静不下来.mp3",
     "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/欧若拉/cover.png"
+}, {
+    "name": "保护色",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/保护色.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "最近",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/最近.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "口袋的天空 ",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/口袋的天空 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "喜欢你没道理 ",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/喜欢你没道理 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "惊天动地",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/惊天动地.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "永昼",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/永昼.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "潘朵拉",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/潘朵拉.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "爱情旅程",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/爱情旅程.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "真的 ",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/真的 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "隐形的翅膀 ",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/隐形的翅膀 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "香水百合",
+    "artist": "专辑-潘朵拉",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/香水百合.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/潘朵拉/cover.png"
+}, {
+    "name": "I Started A Joke",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/I Started A Joke.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "偶尔",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/偶尔.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "再快乐一点",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/再快乐一点.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "寻找爱蜜莉",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/寻找爱蜜莉.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "幸运之吻",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/幸运之吻.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "我要你的",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/我要你的.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "摇摆头",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/摇摆头.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "白白的",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/白白的.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "看得最远的地方 ",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/看得最远的地方 .mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
+}, {
+    "name": "第五季",
+    "artist": "专辑-第5季",
+    "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/第五季.mp3",
+    "cover": "https://testingcf.jsdelivr.net/gh/EternalDung/song@main/audio/第5季/cover.png"
 }]
