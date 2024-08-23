@@ -618,7 +618,7 @@
         "artist": "张韶涵",
         "album": "梦里花",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我.lrc"
       }
     ]
   },
