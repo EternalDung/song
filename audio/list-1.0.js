@@ -555,7 +555,7 @@
         "artist": "张韶涵",
         "album": "梦里花",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛.lrc"
       },
       {
         "title": "交换",
