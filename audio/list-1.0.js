@@ -336,7 +336,7 @@
         "artist": "张韶涵",
         "album": "Over The Rainbow",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好.lrc"
       },
       {
         "title": "都只因为你",
@@ -555,7 +555,7 @@
         "artist": "张韶涵",
         "album": "梦里花",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛"
       },
       {
         "title": "交换",
@@ -576,7 +576,7 @@
         "artist": "张韶涵",
         "album": "梦里花",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝.lrc"
       },
       {
         "title": "幻想爱",
@@ -618,7 +618,7 @@
         "artist": "张韶涵",
         "album": "梦里花",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我"
       }
     ]
   },
@@ -743,14 +743,14 @@
         "artist": "张韶涵",
         "album": "潘朵拉",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空.lrc"
       },
       {
         "title": "喜欢你没道理 ",
         "artist": "张韶涵",
         "album": "潘朵拉",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理.lrc"
       },
       {
         "title": "惊天动地",
@@ -792,7 +792,7 @@
         "artist": "张韶涵",
         "album": "潘朵拉",
         "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀.mp3",
-        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀 .lrc"
+        "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀.lrc"
       },
       {
         "title": "香水百合",
