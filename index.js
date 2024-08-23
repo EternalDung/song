@@ -26,9 +26,9 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
           artist: "张韶涵", // 艺术家名，这里假设是固定的，也可以从文件名或目录结构中提取
           album: albumTitle, // 专辑名
           publish: "2019-08", 
-          company: "待完善", 
+          company: "手工完善", 
           cover: 'https://testingcf.jsdelivr.net/gh/EternalDung/song@a10/audio/' + arr[2] + '/cover.png',
-          intro: "待完善", // 专辑简介
+          intro: "手工完善", // 专辑简介
           songs: [] // 歌曲集合
         };
         albums.push(album);
