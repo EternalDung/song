@@ -335,7 +335,7 @@
         "title": "遗失的美好 ",
         "artist": "张韶涵",
         "album": "Over The Rainbow",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好 .lrc"
       },
       {
@@ -554,7 +554,7 @@
         "title": "不痛 ",
         "artist": "张韶涵",
         "album": "梦里花",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛 .lrc"
       },
       {
@@ -575,7 +575,7 @@
         "title": "寻宝 ",
         "artist": "张韶涵",
         "album": "梦里花",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝 .lrc"
       },
       {
@@ -617,7 +617,7 @@
         "title": "给你给我 ",
         "artist": "张韶涵",
         "album": "梦里花",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我 .lrc"
       }
     ]
@@ -742,14 +742,14 @@
         "title": "口袋的天空 ",
         "artist": "张韶涵",
         "album": "潘朵拉",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空 .lrc"
       },
       {
         "title": "喜欢你没道理 ",
         "artist": "张韶涵",
         "album": "潘朵拉",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理 .lrc"
       },
       {
@@ -791,7 +791,7 @@
         "title": "隐形的翅膀 ",
         "artist": "张韶涵",
         "album": "潘朵拉",
-        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀 .mp3",
+        "url": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀.mp3",
         "lyric": "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀 .lrc"
       },
       {

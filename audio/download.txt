@@ -40,7 +40,7 @@ https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/�
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/我的最爱.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/明明爱你.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/真爱冒险.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/遗失的美好.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/都只因为你.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/Over The Rainbow/雨后.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/全面沦陷/Go.mp3
@@ -67,16 +67,16 @@ https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/有形的翅膀/淋
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/有形的翅膀/王子病.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/有形的翅膀/讲不听.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/C大调.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/不痛.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/交换.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/其实很爱你.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/寻宝.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/幻想爱.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/样子.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/梦里花.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/泪光.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/爱上爱的味道.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/梦里花/给你给我.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/欧若拉/Mama Mama.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/欧若拉/可以爱很久.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/欧若拉/复活节.mp3
@@ -91,14 +91,14 @@ https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/欧若拉/起点.mp
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/欧若拉/静不下来.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/保护色.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/最近.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空 .mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/口袋的天空.mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/喜欢你没道理.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/惊天动地.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/永昼.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/潘朵拉.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/爱情旅程.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/真的.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀 .mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/隐形的翅膀.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/潘朵拉/香水百合.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/第5季/I Started A Joke.mp3
 https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/第5季/偶尔.mp3
