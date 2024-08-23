@@ -27,7 +27,7 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
           album: albumTitle, // 专辑名
           publish: "2019-08", 
           company: "手工完善", 
-          cover: 'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/audio/' + arr[2] + '/cover.png',
+          cover: 'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/' + arr[2] + '/cover.png',
           intro: "手工完善", // 专辑简介
           songs: [] // 歌曲集合
         };
@@ -41,11 +41,11 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
         title: basename,
         artist: "张韶涵",
         album: arr[2], // 文件夹名是专辑名
-        url: 'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre' + item.slice(1),
-        lyric:'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/audio/' + arr[2] + '/'+basename+'.lrc'
+        url: 'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1' + item.slice(1),
+        lyric:'https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/audio/' + arr[2] + '/'+basename+'.lrc'
       });
 
-      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre${item.slice(1)}\n`;
+      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1${item.slice(1)}\n`;
     } else {
       console.log('文件大于20M：', item);
     }

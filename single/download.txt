@@ -1,2 +1,2 @@
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/single/暮色回响/暮色回响.mp3
-https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/single/瞬间移动/瞬间移动.mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1e/single/暮色回响/暮色回响.mp3
+https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1e/single/瞬间移动/瞬间移动.mp3

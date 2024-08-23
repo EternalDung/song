@@ -26,10 +26,10 @@ glob("./single/**/*.{mp3,wav,flac}", {}, function (er, files) {
         artist: "张韶涵",
         album: arr[2], // 文件夹名
         url:
-          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre" +
+          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1" +
           item.slice(1),
         cover:
-          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/single/" +
+          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/single/" +
           arr[2] +
           "/" +
           basename +
@@ -37,14 +37,14 @@ glob("./single/**/*.{mp3,wav,flac}", {}, function (er, files) {
         publish: "2019-03-27",
         intro: "张韶涵",
         lyric:
-          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre/single/" +
+          "https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1/single/" +
           arr[2] +
           "/" +
           basename +
           ".lrc",
       });
 
-      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.0-pre${item.slice(
+      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1e${item.slice(
         1
       )}\n`;
     } else {
