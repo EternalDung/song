@@ -44,7 +44,7 @@ glob("./single/**/*.{mp3,wav,flac}", {}, function (er, files) {
           ".lrc",
       });
 
-      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1e${item.slice(
+      download += `https://testingcf.jsdelivr.net/gh/EternalDung/song@1.1${item.slice(
         1
       )}\n`;
     } else {
@@ -53,7 +53,7 @@ glob("./single/**/*.{mp3,wav,flac}", {}, function (er, files) {
   });
 
   // 写入JSON文件
-  fs.writeFileSync("./single/list.js", JSON.stringify(singleList, null, 2)); // 使用缩进美化输出
+  fs.writeFileSync("./single/list-v1.js", JSON.stringify(singleList, null, 2)); // 使用缩进美化输出
 
   // 写入下载列表
   fs.writeFileSync("./single/download.txt", download);
